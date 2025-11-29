@@ -1,0 +1,8 @@
+Flask==2.3.3
+flask-session==0.5.0
+mysql-connector-python>=8.0
+bcrypt>=4.0
+python-dotenv>=1.0
+Werkzeug==2.3.7
+Jinja2==3.1.2
+# OpenAI and requests removed — AI integration disabled
